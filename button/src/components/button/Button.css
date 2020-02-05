@@ -1,6 +1,8 @@
 .toggled {
   border: 1px solid red;
+  background-color: blue;
 }
 .untoggled {
   border: 1px solid blue;
+  background-color: red;
 }
